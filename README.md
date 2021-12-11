@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-🔭 I've advanced experience in development in JavaScript ecosystem (Node, React, ...) and PHP since 2017.
+🔭 I've advanced experience in development in JavaScript ecosystem (Node, React, ...) and PHP since 2017/2015.
 
 💼 I'm currently working full time at Sayaris as a fullstask developer on PHP (Laravel) & VueJS...
 
