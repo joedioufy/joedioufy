@@ -27,4 +27,17 @@
     - Give the most reliable estimates possible of completion time
     - Document achievements and share knowledge with the teams
 
+### 😊 About me
+
+<table>
+<tbody>
+<tr style="border: none">
+  <td style="width: 100px; border: none"><a href="https://www.linkedin.com/in/joseph-diouf-9a6201a8/"> <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="Linkedin"></a> 
+</td>
+  <td style="width: 130px;  border: none"><a href="https://stackoverflow.com/users/15269852/joe"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/768px-Stack_Overflow_icon.svg.png" alt="Linkedin"></a> 
+</td>
+</tr>
+</tbody>
+</table>
+
 🤔 Now I've been researching web streaming, coming ...
